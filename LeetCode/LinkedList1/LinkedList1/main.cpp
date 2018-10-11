@@ -20,17 +20,14 @@ int main(int argc, const char * argv[]) {
 }
 
 void deleteNthNodeFromEnd() {
-    int arr[] = {1,2};
+    int arr[] = {1,2,3,5,7};
     int n = sizeof(arr)/sizeof(arr[0]);
-    int k = 2;
+    int k = 3;
     
-    ListNode *head = ListedList().createLinkedList(arr, n);
-    ListedList().printLinkedList(head);
+    ListNode *head = Solution().createLinkedList(arr, n);
+    Solution().printLinkedList(head);
     
-    ListNode *newHead = ListedList().deleteNthNodeFromEnd(head, k);
-    ListedList().printLinkedList(newHead);
-    
-//    ListNode *newHead = ListedList().deleteNthNodeFromEnd1(head, k);
-//    ListedList().printLinkedList(newHead);
+    ListNode *newHead = Solution().deleteNthNodeFromEnd(head, k);
+    Solution().printLinkedList(newHead);
 
 }

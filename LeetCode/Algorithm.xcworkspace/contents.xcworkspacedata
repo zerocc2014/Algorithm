@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:LinkedList4/LinkedList4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LinkedList3/LinkedList3.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:LinkedList2/LinkedList2.xcodeproj">
    </FileRef>
    <FileRef

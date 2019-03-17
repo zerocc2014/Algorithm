@@ -58,6 +58,7 @@ public:
             preNode->next = tailNode;
             tailNode = startNode->next;
         }
+        
         return dummyNode->next;
     }
         

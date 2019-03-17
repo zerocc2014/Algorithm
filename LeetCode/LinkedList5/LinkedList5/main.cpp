@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  ListNode5
+//  LinkedList5
 //
-//  Created by zerocc on 2018/12/5.
+//  Created by zerocc on 2018/12/10.
 //  Copyright © 2018年 zerocc. All rights reserved.
 //
 

@@ -7,8 +7,7 @@
 
 <details>
 <summary> 十大经典排序 </summary>
-
-
+<br/>
 [冒泡排序]()
 
 [快速排序]()

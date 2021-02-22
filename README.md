@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary> 数组(11道) </summary>
+<summary> 数组（11道） </summary>
 
 - [剑指Offer（一）：二维数组中的查找]()
 

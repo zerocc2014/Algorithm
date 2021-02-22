@@ -51,8 +51,6 @@
 <details>
 <summary> 字符串（8道）</summary>
 
-<br/>
-
 - [剑指Offer(二)：替换空格]()
 
 - [剑指Offer（二十七）：字符串的排列]()

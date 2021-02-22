@@ -49,7 +49,7 @@
 # 剑指 Offer
 
 <details>
-<summary> **字符串（8道）** </summary>
+<summary> 字符串（8道）</summary>
 
 <br/>
 
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary> **数组(11道)** </summary>
+<summary> 数组(11道) </summary>
 
 <br/>
 
@@ -101,7 +101,7 @@
 </details>
 
 <details>
-<summary> **链表（8道）** </summary>
+<summary> 链表（8道）</summary>
 
 <br/>
 

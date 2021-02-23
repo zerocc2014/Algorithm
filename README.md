@@ -1,7 +1,7 @@
 # Algorithm
 算法练习 C++
 ![算法题型](https://github.com/zerocc2014/Algorithm/blob/master/Images/%E7%AE%97%E6%B3%95%E9%A2%98%E5%9E%8B.png)
-<img src="https://github.com/zerocc2014/Algorithm/blob/master/Images/%E7%AE%97%E6%B3%95%E9%A2%98%E5%9E%8B.png" width="600" height="600" alt="算法题型" align=center/>
+<img src="https://github.com/zerocc2014/Algorithm/blob/master/Images/%E7%AE%97%E6%B3%95%E9%A2%98%E5%9E%8B.png" width="490" height="611" alt="算法题型" align=center/>
 
 # 十大经典排序算法
 

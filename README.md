@@ -1,7 +1,5 @@
 # Algorithm
 算法练习 C++
-
- o  \left ( n^{2}  \right ) 
  
 ![1](http://latex.codecogs.com/svg.latex?\o\left(n^{2}\right))
  

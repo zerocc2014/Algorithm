@@ -3,7 +3,7 @@
 
  o  \left ( n^{2}  \right ) 
  
-![1](http://latex.codecogs.com/svg.latex?\o\left ( n^{2}  \right ) )
+![1](http://latex.codecogs.com/svg.latex?\o\left(n^{2}\right))
  
 <img src="https://github.com/zerocc2014/Algorithm/blob/master/Images/%E7%AE%97%E6%B3%95%E9%A2%98%E5%9E%8B.png" width="490" height="611" alt="算法题型" align=center/>
 
